@@ -49,7 +49,6 @@
     "CUP_H_USArmy_HelmetACH_ESS_Headset_OEFCP",
     "CUP_H_USArmy_HelmetACH_Headset_OEFCP",
     "CUP_H_US_patrol_cap_OEFCP",
-    "CUP_H_Ger_M92_Cover_Trop_GG",
     // ------------------------------------------------------------------
     // ------------------------------------------------------------------
     // goggles
