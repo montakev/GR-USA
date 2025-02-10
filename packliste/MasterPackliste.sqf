@@ -19,8 +19,6 @@
     "CUP_srifle_M110_woodland",
     "CUP_srifle_m110_kac",
     "CUP_srifle_m110_kac_woodland",
-    "CUP_arifle_HK417_20",
-    "CUP_arifle_HK417_20_Desert",
     "CUP_lmg_m249_SQuantoon",
     "CUP_lmg_m249_pip1",
     "CUP_lmg_m249_pip3",
